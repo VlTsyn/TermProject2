@@ -1,0 +1,282 @@
+[
+  {
+    "id": "125314150",
+    "name": "Junior Java-разработчик",
+    "url": "https://api.hh.ru/vacancies/125314150?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "snippet": {
+      "requirement": "Знание <highlighttext>Java</highlighttext> Core, понимание ООП. Опыт с Spring / Spring Boot — на практике или учебных проектах. Знакомство с REST API, RPC...",
+      "responsibility": "Участвовать в разработке и доработке backend-функционала на <highlighttext>Java</highlighttext>. Исправлять баги, писать простые фичи под руководством наставника. Писать чистый и..."
+    }
+  },
+  {
+    "id": "125070394",
+    "name": "Backend-разработчик (Java, Spring Boot)",
+    "url": "https://api.hh.ru/vacancies/125070394?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "snippet": {
+      "requirement": "Опыт работы от 3 лет в разработке на <highlighttext>Java</highlighttext> (Spring Boot). Знание принципов микросервисной архитектуры. Опыт работы с реляционными и...",
+      "responsibility": "Разработка и поддержка микросервисной архитектуры бэкенда на Spring Boot (<highlighttext>Java</highlighttext>). Разделение системы на микросервисы (управление пользователями, курсы, платежи, отчетность). "
+    }
+  },
+  {
+    "id": "125317422",
+    "name": "Backend-разработчик (Python\\Golang)",
+    "url": "https://api.hh.ru/vacancies/125317422?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "snippet": {
+      "requirement": "Желания постоянно улучшить продукт. Будет плюсом: Знание языка Go, понимание как работают каналы и горутины. Знание языка <highlighttext>Java</highlighttext>.",
+      "responsibility": "Разработка новых функций. Разработка RESTful сервисов. Настройка и оптимизация PostgreSQL. Проектирование архитектуры. Развертывание сервисов на серверах (Виртуальных машинах). "
+    }
+  },
+  {
+    "id": "125255595",
+    "name": "Веб-разработчик/Web-программист/Front End developer в Астане",
+    "url": "https://api.hh.ru/vacancies/125255595?host=hh.ru",
+    "salary": {
+      "from": 100000,
+      "to": 400000,
+      "currency": "KZT"
+    },
+    "snippet": {
+      "requirement": "Обязательное знание: HTML, CSS, JS. Желательно знание CMS: October Cms, OpenCart, Joomla, Bitrix CMS. Умение изучать и разбираться с кодом.",
+      "responsibility": "Выполнение заявок по техподдержке. Внесение правок в сайты. Доработка сайтов. Исправление ошибок."
+    }
+  },
+  {
+    "id": "125376324",
+    "name": "Тестировщик",
+    "url": "https://api.hh.ru/vacancies/125376324?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "snippet": {
+      "requirement": "...безопасности WEB-приложений, проведение тестов на инъекции. Навыки создания коллекций с использованием тестов на Postman. Желание развиваться в автотестировании (<highlighttext>Java</highlighttext>).",
+      "responsibility": "Проводить тестирование веб-приложений на соответствие поставленным требованиям. Контролировать и улучшать качество продукта на всех этапах жизненного цикла. "
+    }
+  },
+  {
+    "id": "125395562",
+    "name": "Java разработчик",
+    "url": "https://api.hh.ru/vacancies/125395562?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "snippet": {
+      "requirement": "Умение работать в команде. Понимание концептов работы сети. Уверенные знания <highlighttext>Java</highlighttext> Core. Система управления версиями Git. Знание одной из баз...",
+      "responsibility": "Работать над крупными финтех проектами в команде с другими разработчиками, аналитиками, девопсами и тестировщиками. Писать сложную бизнес-логику и интересные..."
+    }
+  },
+  {
+    "id": "125341679",
+    "name": "Java Developer (Trainee)",
+    "url": "https://api.hh.ru/vacancies/125341679?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "snippet": {
+      "requirement": "IT or technical education (students welcome!). English: Intermediate+. Solid knowledge of <highlighttext>Java</highlighttext> Core & SQL. Basic understanding of Spring Framework. ",
+      "responsibility": "...foundation in <highlighttext>Java</highlighttext> programming and apply it to real-world projects. Design and improve applications using advanced <highlighttext>Java</highlighttext> features and..."
+    }
+  },
+  {
+    "id": "125401191",
+    "name": "Backend-разработчик",
+    "url": "https://api.hh.ru/vacancies/125401191?host=hh.ru",
+    "salary": {
+      "from": 15000000,
+      "to": 20000000,
+      "currency": "UZS"
+    },
+    "snippet": {
+      "requirement": "Опыт работы backend-разработчиком от 2 лет. Знание одного из языков программирования: <highlighttext>Java</highlighttext> / Kotlin / C# / Go / Python. Уверенное владение SQL...",
+      "responsibility": "Проектирование и разработка серверной логики приложений и сервисов. Создание и поддержка API (REST, GraphQL, gRPC) для мобильных и веб-клиентов. "
+    }
+  },
+  {
+    "id": "125398592",
+    "name": "Middle Java Разработчик",
+    "url": "https://api.hh.ru/vacancies/125398592?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "snippet": {
+      "requirement": "Опыт <highlighttext>java</highlighttext> разработчиком от 2 лет. Знание <highlighttext>Java</highlighttext> Core (collections, exceptions, generic, stream и т.д.). Понимание принципов ООП и...",
+      "responsibility": "Разработка новых и поддержка существующих <highlighttext>java</highlighttext> сервисов. Написание unit и интеграционных тестов. Участие в код ревью коллег."
+    }
+  },
+  {
+    "id": "125316249",
+    "name": "Разработчик Backend",
+    "url": "https://api.hh.ru/vacancies/125316249?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "snippet": {
+      "requirement": "Готовность работать с Golang: либо коммерческий опыт работы с Go, либо опыт на другом языке (Node.js, <highlighttext>Java</highlighttext>, C# и т...",
+      "responsibility": "Участвовать в разработке, поддержке и оптимизации высококачественного REST API для наших продуктов. Заниматься интеграцией с различными внутренними и внешними сервисами..."
+    }
+  },
+  {
+    "id": "124908723",
+    "name": "Java разработчик",
+    "url": "https://api.hh.ru/vacancies/124908723?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "snippet": {
+      "requirement": "Опыт командной разработки коммерческих приложений на <highlighttext>Java</highlighttext> на основе принципов agile от 3-х лет. Желателен опыт проектирования и разработки...",
+      "responsibility": "Простой и быстрый процесс собеседований: беседа с HR, одно техническое интервью (примерно 1 час), предложение о работе."
+    }
+  },
+  {
+    "id": "125312363",
+    "name": "Стажер-разработчик",
+    "url": "https://api.hh.ru/vacancies/125312363?host=hh.ru",
+    "salary": {
+      "from": 100000,
+      "to": 100000,
+      "currency": "KZT"
+    },
+    "snippet": {
+      "requirement": "Знание основ программирования. Знания любого языка программирования (JavaScript, PHP, Python, C#, <highlighttext>Java</highlighttext>, C, C++ и др). Писать код, понимать основные...",
+      "responsibility": "Разработка, развитие и поддержка Аналитической системы."
+    }
+  },
+  {
+    "id": "125320976",
+    "name": "Java-разработчик",
+    "url": "https://api.hh.ru/vacancies/125320976?host=hh.ru",
+    "salary": {
+      "from": 170000,
+      "to": 200000,
+      "currency": "RUR"
+    },
+    "snippet": {
+      "requirement": "Высшее техническое образование желательно. <highlighttext>Java</highlighttext> Core, <highlighttext>Java</highlighttext> EE, <highlighttext>Java</highlighttext> Spring. PostgreSQL. Glassfish, Apache Tomcat. JAXB, JDBC, JPA, EJB, RMI, Servlets.",
+      "responsibility": "Требуемый стек:"
+    }
+  },
+  {
+    "id": "125172246",
+    "name": "Тестировщик",
+    "url": "https://api.hh.ru/vacancies/125172246?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "snippet": {
+      "requirement": "Опыт тестирования API, фронтенд- и консольных приложений. Опыт тестирования API , написанных на <highlighttext>Java</highlighttext> (Spring framework). Понимание принципов работы React для...",
+      "responsibility": "Тестирование API на <highlighttext>Java</highlighttext> (Spring framework). Тестирование фронтенд-приложений на React. Тестирование консольных приложений. Проведение нагрузочного тестирования. Проверка на уязвимости..."
+    }
+  },
+  {
+    "id": "125098603",
+    "name": "QA инженер/Инженер по ручному тестированию",
+    "url": "https://api.hh.ru/vacancies/125098603?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "snippet": {
+      "requirement": "Базовые знания о работе удостоверяющих центров. Знание структуры и характеристик электронных сертификатов, криптографии. Опыт и знания <highlighttext>java</highlighttext> core, junit/testng...",
+      "responsibility": "Проведение всего цикла ручного тестирования. Анализ и формализация требований к продукту, составление тест-планов и кейсов. Поддержка и написание тестовой..."
+    }
+  },
+  {
+    "id": "125184552",
+    "name": "Backend-разработчик",
+    "url": "https://api.hh.ru/vacancies/125184552?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "snippet": {
+      "requirement": "Опыт работы от 3 до 6 лет. Уверенные знания <highlighttext>Java</highlighttext> и Spring (Boot, Data). Навыки работы с реляционными базами данных...",
+      "responsibility": "Разрабатывать новые модули и сервисы. Проектировать архитектуру и участвовать в её анализе. Исправлять баги и оптимизировать производительность. Интегрироваться с гос. "
+    }
+  },
+  {
+    "id": "125249554",
+    "name": "Технический директор / Chief Technology Officer (CTO)",
+    "url": "https://api.hh.ru/vacancies/125249554?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "snippet": {
+      "requirement": "Бэкграунд в аналогичной должности от 3 лет. Опыт управления большими техническими коллективами, формирования стандартов разработки, запуска значимых проектов в IT...",
+      "responsibility": "Операционное руководство департаментом, управление проектами, бюджетами и сроками. Взаимодействие с бизнес-подразделениями по ключевым вопросам. Анализ эффективности технологий, процессов и..."
+    }
+  },
+  {
+    "id": "125367459",
+    "name": "Middle QA Engineer",
+    "url": "https://api.hh.ru/vacancies/125367459?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "snippet": {
+      "requirement": "Умение работать в Qase.io. Опыт с написанием авто-тестов, желательно на <highlighttext>Java</highlighttext>. Опыт настройки CI/CD для автотестов (Jenkins, GitLab...",
+      "responsibility": "Создание кейсов по регрессионному, функциональному и интеграционным тестам. Также проведение после релизных смоук-тестирований. Заполнение тест-кейсов во время планирования..."
+    }
+  },
+  {
+    "id": "124788635",
+    "name": "Backend-разработчик на Java",
+    "url": "https://api.hh.ru/vacancies/124788635?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "snippet": {
+      "requirement": "Автономность: умение решать поставленные задачи самостоятельно. Уверенные знания <highlighttext>Java</highlighttext> и SQL. Знание средств коллективной разработки и сборки проектов (Git, Maven...",
+      "responsibility": "Разработка сервисов высоконагруженной системы с петабайтным хранилищем и кластером PostgreSQL. Интеграция приложений с микросервисами и функциональными узлами системы. "
+    }
+  },
+  {
+    "id": "125269479",
+    "name": "Программист Java",
+    "url": "https://api.hh.ru/vacancies/125269479?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "snippet": {
+      "requirement": "Обладаешь уверенными знаниями в области объектно-ориентированного программирования. Имеешь опыт работы по данному направлению от 3-х лет в качестве...",
+      "responsibility": "Разрабатывать функциональные блоки программного продукта для управления автоматизированным высоконагруженным складом. Участвовать в проектировании микросервисной архитектуры продукта. Реализовывать задачи в соответствии..."
+    }
+  }
+]
