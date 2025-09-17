@@ -98,15 +98,15 @@ def test_compare(vacancies):
 def test_to_dict(vacancies):
     result = [Vacancy.from_json(v) for v in vacancies]
     assert result[0].to_dict() == {
-        "id": "125314150",
-        "name": "Junior Java-разработчик",
-        "url": "https://api.hh.ru/vacancies/125314150?host=hh.ru",
-        "salary": {"from": 90000, "to": None, "currency": "RUB"},
-        "snippet": {
-            "requirement": "Знание <highlighttext>Java</highlighttext> Core, понимание ООП. Опыт с Spring / \n"
-            "Spring Boot — на практике или учебных проектах. Знакомство с REST API, RPC...",
-            "responsibility": "Участвовать в разработке и доработке backend-функционала на \n"
-            "<highlighttext>Java</highlighttext>. Исправлять баги, писать простые фичи под \n"
-            "руководством наставника. Писать чистый и...",
-        },
-    }
+            "id": "125314150",
+            "name": "Junior Java-разработчик",
+            "url": "https://api.hh.ru/vacancies/125314150?host=hh.ru",
+            "salary": {"from": 90000, "to": None, "currency": "RUB"},
+            "snippet": {
+                "requirement": "Знание <highlighttext>Java</highlighttext> Core, понимание ООП. Опыт с Spring / \n"
+                "Spring Boot — на практике или учебных проектах. Знакомство с REST API, RPC...",
+                "responsibility": "Участвовать в разработке и доработке backend-функционала на \n"
+                "<highlighttext>Java</highlighttext>. Исправлять баги, писать простые фичи \n"
+                "под руководством наставника. Писать чистый и...",
+            },
+        }

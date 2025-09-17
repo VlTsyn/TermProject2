@@ -139,7 +139,7 @@ def test_add_vacancies(tmp_file, tmp_storage, vacancy_objs, extra_vacancy):
 def test_get_vacancies(tmp_file, tmp_storage, vacancies):
     with open(tmp_file, "w", encoding="utf-8") as f:
         json.dump(vacancies, f, ensure_ascii=False)
-    data = tmp_storage.get_vacancies("java")
+    data = tmp_storage.get_vacancies("Developer")
     assert len(data) == 2
 
 
