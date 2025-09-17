@@ -80,10 +80,10 @@ def test_avg_salary(vacancies):
 def test_str(vacancies):
     result = [Vacancy.from_json(v) for v in vacancies]
     assert str(result[0]) == "Вакансия: Junior Java-разработчик | Зарплата: от 90000 RUB"
-    assert str(result[1]) == "Вакансия: Backend-разработчик (Python\\Golang) | Зарплата: до 100000 RUB"
+    assert str(result[1]) == "Вакансия: Backend-разработчик (Python\\Java) | Зарплата: до 100000 RUB"
     assert (
         str(result[2])
-        == "Вакансия: Веб-разработчик/Web-программист/Front End developer в Астане | Зарплата: Зарплата не указана"
+        == "Вакансия: Java-разработчик/Web-программист/Front End developer в Астане | Зарплата: Зарплата не указана"
     )
     assert str(result[3]) == "Вакансия: Java Developer (Trainee) | Зарплата: от 80000 до 100000 "
 

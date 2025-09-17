@@ -146,7 +146,7 @@ def test_get_vacancies(tmp_file, tmp_storage, vacancies):
 def test_delete_vacancies(tmp_file, tmp_storage, vacancies):
     with open(tmp_file, "w", encoding="utf-8") as f:
         json.dump(vacancies, f, ensure_ascii=False)
-    tmp_storage.delete_vacancies("java")
+    tmp_storage.delete_vacancies("разработчик")
     with open(tmp_file, "r", encoding="utf-8") as f:
         data = json.load(f)
-    assert len(data) == 2
+    assert len(data) == 1
